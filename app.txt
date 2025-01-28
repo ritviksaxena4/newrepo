@@ -1,1 +1,3 @@
 print(hello)
+calculate a and b 
+addthem and give the output
